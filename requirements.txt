@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-openai
+langchain-community
+chromadb
+streamlit
+pymupdf
+pydantic
+httpx
+python-dotenv
+tiktoken
+fpdf2
